@@ -58,7 +58,7 @@
 ![i7](https://img.shields.io/badge/i7-0071C5?style=for-the-badge&logo=intel&logoColor=white)
 ![16GB RAM](https://img.shields.io/badge/16GB-RAM-0071C5?style=for-the-badge&logo=memoria-ram&logoColor=white)
 ![gtx-960](https://img.shields.io/badge/NVIDIA-GTX_1650-76B900?style=for-the-badge&logo=nvidia&logoColor=white)
-![windows](https://img.shields.io/badge/Windows_10-0078D6?style=for-the-badge&logo=windows&logoColor=white)
+![manjaro](https://img.shields.io/badge/Manjaro-0078D6?style=for-the-badge&logo=manjaro&logoColor=white)
 ![vs-code](https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=Visual-Studio-Code&logoColor=white)
 
 ---
