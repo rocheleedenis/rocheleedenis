@@ -30,7 +30,7 @@
 </p>
 
 <p align="left">
-  👨‍🎓 Estudante do curso Full Cycle 2.0
+  👨‍🎓 Estudante do curso Full Cycle 3.0
 </p>
 
 ---
