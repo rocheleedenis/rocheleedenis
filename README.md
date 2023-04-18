@@ -1,5 +1,5 @@
 <h1 align="center">
-  Olá eu sou o Rochele <img src="https://raw.githubusercontent.com/iampavangandhi/iampavangandhi/master/gifs/Hi.gif" width="30px">
+  Olá eu sou Rochele <img src="https://raw.githubusercontent.com/iampavangandhi/iampavangandhi/master/gifs/Hi.gif" width="30px">
 </h1>
 
 <br />
