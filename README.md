@@ -29,10 +29,6 @@
  🎓👨‍🎓 Formada em Sistemas de Informação
 </p>
 
-<p align="left">
-  👨‍🎓 Estudante do curso Full Cycle 3.0
-</p>
-
 ---
 
 ### 🛠️ Habilidades
