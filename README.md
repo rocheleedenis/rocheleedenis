@@ -47,6 +47,7 @@
 ### :computer: Back-End Development
 
 ![php](https://img.shields.io/badge/PHP-323330?style=for-the-badge&logo=php&logoColor=F7DF1E)
+![laravel](https://img.shields.io/badge/laravel-E34F26?style=for-the-badge&logo=lravel&logoColor=white)
 ![mariadb](https://img.shields.io/badge/MARIADB-E34F26?style=for-the-badge&logo=mariadb&logoColor=white)
 
 ## 🖥️ Workspace Setup
